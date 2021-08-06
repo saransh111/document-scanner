@@ -3,7 +3,6 @@ import 'package:splashscreen/splashscreen.dart';
 import '2.dart';
 import 'UserInterface.dart';
 
-
 class Splash2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

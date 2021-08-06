@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862314476665",
+    "project_id": "doc-scanner-85730",
+    "storage_bucket": "doc-scanner-85730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862314476665:android:fc1be0dd290afa7df350a8",
+        "android_client_info": {
+          "package_name": "com.example.document"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862314476665-19q9plqmmpu4923iij5hr47dsjdoag0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4K9s7ffLl3J3H7S7SWjGNLB7qaHpc4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862314476665-19q9plqmmpu4923iij5hr47dsjdoag0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
