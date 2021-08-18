@@ -1,3 +1,4 @@
+![WhatsApp Image 2021-08-18 at 23 06 39 (6)](https://user-images.githubusercontent.com/63945888/129957519-dc446a0b-f594-4beb-97b7-5f4f10fac4b2.jpeg)
 ![download](https://user-images.githubusercontent.com/63945888/129956372-7ee943dc-347d-4c0d-858f-5ce53dbf6c75.png)
 
 
@@ -38,5 +39,5 @@ maintain the same thing before even starting it.
 ![WhatsApp Image 2021-08-18 at 23 06 39 (3)](https://user-images.githubusercontent.com/63945888/129957251-c8c5b674-5abb-4e8c-9925-a06d8ea529d7.jpeg)
 ![WhatsApp Image 2021-08-18 at 23 06 39 (4)](https://user-images.githubusercontent.com/63945888/129957256-ae29c609-843f-42f7-8b03-e15b992bdb30.jpeg)
 ![WhatsApp Image 2021-08-18 at 23 06 39 (5)](https://user-images.githubusercontent.com/63945888/129957263-4306bfb5-f397-4f1c-bf1f-224200871c67.jpeg)
-![WhatsApp Image 2021-08-18 at 23 06 39](https://user-images.githubusercontent.com/63945888/129957275-83f7e958-6d3a-4272-87f4-92e03b19c165.jpg)
+
 
