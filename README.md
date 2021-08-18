@@ -33,10 +33,10 @@ maintain the same thing before even starting it.
   
 ## Screenshots
 
-![WhatsApp Image 2021-08-18 at 23 06 39 (1)](https://user-images.githubusercontent.com/63945888/129956850-95093d54-c944-43d6-80c7-48e7871b6263.jpg)
-![WhatsApp Image 2021-08-18 at 23 06 39 (2)](https://user-images.githubusercontent.com/63945888/129956852-2f3a41c2-f1c1-4e38-8085-2ae070570135.jpg)
-![WhatsApp Image 2021-08-18 at 23 06 39 (3)](https://user-images.githubusercontent.com/63945888/129956856-b31eada5-2d99-4049-a5b3-b572608ce168.jpg)
-![WhatsApp Image 2021-08-18 at 23 06 39 (4)](https://user-images.githubusercontent.com/63945888/129956860-50644020-9269-4c3f-8622-372fa7da9523.jpg)
-![WhatsApp Image 2021-08-18 at 23 06 39 (5)](https://user-images.githubusercontent.com/63945888/129956866-2a8a4678-d372-41d1-85ca-ffc782d0eb9f.jpg)
-![WhatsApp Image 2021-08-18 at 23 06 39](https://user-images.githubusercontent.com/63945888/129956868-7aed83d4-2909-4db7-9849-a06e52452890.jpg)
+![WhatsApp Image 2021-08-18 at 23 06 39 (1)](https://user-images.githubusercontent.com/63945888/129957232-45203b14-a299-48b4-93ba-a6249e23cf9e.jpeg)
+![WhatsApp Image 2021-08-18 at 23 06 39 (2)](https://user-images.githubusercontent.com/63945888/129957238-3aa37d2a-b477-4790-806e-20208f486055.jpeg)
+![WhatsApp Image 2021-08-18 at 23 06 39 (3)](https://user-images.githubusercontent.com/63945888/129957251-c8c5b674-5abb-4e8c-9925-a06d8ea529d7.jpeg)
+![WhatsApp Image 2021-08-18 at 23 06 39 (4)](https://user-images.githubusercontent.com/63945888/129957256-ae29c609-843f-42f7-8b03-e15b992bdb30.jpeg)
+![WhatsApp Image 2021-08-18 at 23 06 39 (5)](https://user-images.githubusercontent.com/63945888/129957263-4306bfb5-f397-4f1c-bf1f-224200871c67.jpeg)
+![WhatsApp Image 2021-08-18 at 23 06 39](https://user-images.githubusercontent.com/63945888/129957275-83f7e958-6d3a-4272-87f4-92e03b19c165.jpg)
 
