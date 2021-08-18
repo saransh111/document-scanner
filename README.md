@@ -1,4 +1,5 @@
 
+
 # Document Manager
 
 An android app developed to keep the record of the previous files it 
@@ -31,8 +32,9 @@ maintain the same thing before even starting it.
   
 ## Screenshots
 
-![App Screenshot](https://ibb.co/sqpJQhp)
-![App Screenshot](https://ibb.co/SNDCBC0)
-![App Screenshot](https://ibb.co/vmNM1wk)
-![App Screenshot](https://ibb.co/GWLwSb9)
-![App Screenshot](https://ibb.co/4NQyZLt)
+![WhatsApp Image 2021-08-18 at 23 06 39 (1)](https://user-images.githubusercontent.com/63945888/129956007-fe7b0ba2-0465-4a59-864d-25b7bd145d72.jpeg)
+![WhatsApp Image 2021-08-18 at 23 06 39 (2)](https://user-images.githubusercontent.com/63945888/129956039-d4cd295f-3ca6-4131-89d7-6cac37c474e7.jpeg)
+![WhatsApp Image 2021-08-18 at 23 06 39 (3)](https://user-images.githubusercontent.com/63945888/129956045-6e4969b3-8319-45b7-9c84-d4ec4cc06d87.jpeg)
+![WhatsApp Image 2021-08-18 at 23 06 39 (4)](https://user-images.githubusercontent.com/63945888/129956058-dc8d38bf-0e8a-4f83-8f3d-3a5f2e13c28d.jpeg)
+![WhatsApp Image 2021-08-18 at 23 06 39 (5)](https://user-images.githubusercontent.com/63945888/129956068-e305a7b9-1f6b-4da6-9c61-b1b2a6baec0c.jpeg)
+![WhatsApp Image 2021-08-18 at 23 06 39](https://user-images.githubusercontent.com/63945888/129956077-bc2c0e62-03eb-4bba-ad5a-38957fc84ee5.jpeg)
